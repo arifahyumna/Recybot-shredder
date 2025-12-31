@@ -1,0 +1,9 @@
+opencv-python
+numpy
+paho-mqtt
+torch
+tensorflow atau tflite-runtime
+matplotlib
+tkinter --> python3-tk
+Pillow
+RPi.GPIO
